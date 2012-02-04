@@ -1,1 +1,4 @@
 OziExplorer .names generation from OpenStreetMap data
+
+pg2ozinames.py generates .names database from Gis-Lab
+PostGIS (see http://gis-lab.info/projects/osm_shp.html)
